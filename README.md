@@ -137,6 +137,6 @@ Abra um Pull Request
 Distribuído sob a licença MIT. Veja LICENSE para mais informações.
 
 ✉️ Contato
-Projeto Link: https://github.com/seu-usuario/empat-ia
+Projeto Link: https://github.com/willserra/Empat-IA
 
 Made with ❤️ by Escola da Nuvem - Turma 12/2024
